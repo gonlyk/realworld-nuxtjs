@@ -6,7 +6,7 @@ on:
 
 jobs:
   build-and-deploy:
-    runs-on: Red Hat 4.8.5-28
+    runs-on: ubuntu-latest
     steps:
 
     # 下载源码
